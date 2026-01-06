@@ -1,0 +1,7 @@
+WITH RECURSIVE r(n) AS (
+  SELECT 20
+  UNION ALL
+  SELECT n - 1 FROM r WHERE n > 1
+)
+SELECT REPEAT('* ', n) AS pattern
+FROM r;
