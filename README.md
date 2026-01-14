@@ -72,18 +72,7 @@ Focus on:
 
 ## 🛠 Tools Used
 - SQL Server / MySQL / PostgreSQL (any one)
-- HackerRank, StrataScratch, DataLemur datasets
-
----
-
-## 📌 Status
-- Basic Filters — ✔ Completed  
-- Intermediate Filters — 🔄 In Progress  
-- Aggregations — Pending  
-- Joins — Pending  
-- Window Functions — Pending  
-- Optimization — Pending
-
+- HackerRank, StrataScratch, DataLemur datasets, Leetcode
 ---
 
 ## 🤝 Contributions
